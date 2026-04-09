@@ -52,7 +52,7 @@ npm run build
 - Formulário reativo com validações: e-mail, CPF (algoritmo completo) e telefone  
 - Botão de salvar desabilitado enquanto o formulário for inválido  
 - Subscriptions gerenciadas via `takeUntilDestroyed`  
-- Cobertura de testes > 60 % (33 testes, Vitest)
+- Cobertura de testes > cobertura: 85.71% statements, 91.04% lines (48 testes, Vitest)
 
 ### Stack
 
